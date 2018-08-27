@@ -36,7 +36,7 @@ public class forLoops {
 			{
 				System.out.print(i + " ");
 			}
-	}	
+	}
 	private static void challengeFour() {
 			for(int i = 10; i >= 0; i--)
 			{
