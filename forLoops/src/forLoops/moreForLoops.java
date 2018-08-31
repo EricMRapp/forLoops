@@ -9,11 +9,16 @@ public class moreForLoops {
 	public static void main(String[] args) {
 		//challengeOne();
 		//challengeTwo();
-		challengeThree();
+		//challengeThree();
+		challengeFour();
 	}
 
 	
 	
+
+
+
+
 
 
 	private static void challengeOne() {
@@ -63,6 +68,18 @@ public class moreForLoops {
 		}
 		System.out.println(sum);
 		}
+	
+	private static void challengeFour() 
+	{
+		System.out.println("*********");
+		for(int i = 0; i <= 9; i++)
+		{
+		
+		System.out.println("*       *");
+		}
+		System.out.println("*********");
+	}
+
 }
 	
 	
