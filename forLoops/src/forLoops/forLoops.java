@@ -9,6 +9,17 @@ public class forLoops {
 		//challengeFour();
 	}
 
+<<<<<<< HEAD
+=======
+
+//success
+
+
+
+
+
+
+>>>>>>> branch 'master' of https://github.com/EricMRapp/forLoops.git
 	private static void challengeOne() {
 		for(int i = 1; i <= 5; i++)
 		{
